@@ -1,4 +1,4 @@
-let favouritesnack = 'pizza';
-favouritesnack = 'burger';
+let favouritesnack = "pizza";
+favouritesnack = "burger";
 
-console.log(`My new favourite snack is ${favouritesnack}`)
+console.log(`My new favourite snack is ${favouritesnack}`);
